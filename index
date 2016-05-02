@@ -1,0 +1,17 @@
+!doctype html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>AJAX Demo</title>
+</head>
+<body>
+Minsta möjliga HTML-hemsida
+
+En liten uppdatering
+
+  En ändring från Prose.io
+  
+  
+  <script src="ajax.js"></script>
+  </body>
+</html>
